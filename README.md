@@ -82,3 +82,9 @@ If you are connecting the Ethernet to a router, you need to make sure the gatewa
 For example:
 
 <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/78cd8bab-0007-4d53-b59f-b981efd6533a" />
+
+# Note
+
+You can change the forwarding input and output by simply changing the name of the network interface, for example, 4G modem to Ethernet, or Ethernet to Wi-Fi
+
+If you are trying to forward Wi-Fi to a hotspot, you will need 2 Wi-Fi interface as one interface cannot do both at the same time
